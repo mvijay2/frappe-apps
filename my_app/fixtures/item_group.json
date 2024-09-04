@@ -1,0 +1,111 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Item Group",
+  "image": null,
+  "is_group": 1,
+  "item_group_defaults": [],
+  "item_group_name": "All Item Groups",
+  "modified": "2024-09-04 14:05:15.082867",
+  "name": "All Item Groups",
+  "old_parent": "",
+  "parent_item_group": "",
+  "taxes": []
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Item Group",
+  "image": null,
+  "is_group": 0,
+  "item_group_defaults": [],
+  "item_group_name": "Products",
+  "modified": "2024-09-04 14:05:15.187060",
+  "name": "Products",
+  "old_parent": "All Item Groups",
+  "parent_item_group": "All Item Groups",
+  "taxes": []
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Item Group",
+  "image": null,
+  "is_group": 0,
+  "item_group_defaults": [],
+  "item_group_name": "Raw Material",
+  "modified": "2024-09-04 14:05:15.218960",
+  "name": "Raw Material",
+  "old_parent": "All Item Groups",
+  "parent_item_group": "All Item Groups",
+  "taxes": []
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Item Group",
+  "image": null,
+  "is_group": 0,
+  "item_group_defaults": [],
+  "item_group_name": "Services",
+  "modified": "2024-09-04 14:05:15.235423",
+  "name": "Services",
+  "old_parent": "All Item Groups",
+  "parent_item_group": "All Item Groups",
+  "taxes": []
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Item Group",
+  "image": null,
+  "is_group": 0,
+  "item_group_defaults": [],
+  "item_group_name": "Sub Assemblies",
+  "modified": "2024-09-04 14:05:15.251873",
+  "name": "Sub Assemblies",
+  "old_parent": "All Item Groups",
+  "parent_item_group": "All Item Groups",
+  "taxes": []
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Item Group",
+  "image": null,
+  "is_group": 0,
+  "item_group_defaults": [],
+  "item_group_name": "Consumable",
+  "modified": "2024-09-04 14:05:15.274589",
+  "name": "Consumable",
+  "old_parent": "All Item Groups",
+  "parent_item_group": "All Item Groups",
+  "taxes": []
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Item Group",
+  "image": "/files/images.jpeg",
+  "is_group": 0,
+  "item_group_defaults": [
+   {
+    "buying_cost_center": null,
+    "company": "nature farmeasy",
+    "default_discount_account": null,
+    "default_price_list": "Standard Selling",
+    "default_provisional_account": null,
+    "default_supplier": null,
+    "default_warehouse": "Stores - NF",
+    "deferred_expense_account": null,
+    "deferred_revenue_account": null,
+    "expense_account": null,
+    "income_account": null,
+    "parent": "weeders",
+    "parentfield": "item_group_defaults",
+    "parenttype": "Item Group",
+    "selling_cost_center": null
+   }
+  ],
+  "item_group_name": "weeders",
+  "modified": "2024-09-04 15:21:53.075481",
+  "name": "weeders",
+  "old_parent": "All Item Groups",
+  "parent_item_group": "All Item Groups",
+  "taxes": []
+ }
+]
