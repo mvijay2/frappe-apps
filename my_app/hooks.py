@@ -246,5 +246,8 @@ app_license = "mit"
 fixtures = [
     {
         "dt": "Item Group"
+    },
+    {
+        "dt": "File"
     }
 ]
