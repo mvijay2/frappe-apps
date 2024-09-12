@@ -248,9 +248,6 @@ fixtures = [
         "dt": "Item Group"
     },
     {
-        "dt": "File"
-    },
-    {
         "dt": "Website Item"
     },
     {
@@ -258,7 +255,18 @@ fixtures = [
     },
     {
         "dt": "Stock Entry"
+    },
+     {
+        "dt": "Item Tax Template"
+    },
+     {
+        "dt": "Warehouse"
     }
+
 ]
+
+
+
+
 
 
