@@ -252,16 +252,19 @@ fixtures = [
     },
     {
         "dt": "Item"
+    },
+    {
+        "dt": "Stock Entry"
+    },
+    {
+        "dt": "Item Tax Template"
+    },
+    {
+        "dt": "Item Price"
+    },
+    {
+        "dt": "Warehouse"
     }
-  #  {
-  #      "dt": "Stock Entry"
-  #  },
-  #   {
-  #      "dt": "Item Tax Template"
-  #  },
-  #   {
-  #      "dt": "Warehouse"
-  # }
 ]
 
 
