@@ -246,25 +246,26 @@ app_license = "mit"
 fixtures = [
     {
         "dt": "Item Group"
-    }
-]
-
-'''
-
-{
+    },
+    {
         "dt": "Website Item"
     },
     {
         "dt": "Item"
-    },
-    {
-        "dt": "Stock Entry"
-    },
-     {
-        "dt": "Item Tax Template"
-    },
-     {
-        "dt": "Warehouse"
     }
-'''
+  #  {
+  #      "dt": "Stock Entry"
+  #  },
+  #   {
+  #      "dt": "Item Tax Template"
+  #  },
+  #   {
+  #      "dt": "Warehouse"
+  # }
+]
+
+
+
+
+
 
