@@ -249,5 +249,11 @@ fixtures = [
     },
     {
         "dt": "File"
+    },
+    {
+        "dt": "Website Item"
+    },
+    {
+        "dt": "Item"
     }
 ]
