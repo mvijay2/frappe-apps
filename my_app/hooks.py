@@ -255,5 +255,10 @@ fixtures = [
     },
     {
         "dt": "Item"
+    },
+    {
+        "dt": "Stock Entry"
     }
 ]
+
+
